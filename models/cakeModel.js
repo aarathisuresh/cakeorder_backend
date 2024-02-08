@@ -4,7 +4,7 @@ const cakeSchema=new mongoose.Schema(
         Name:String,
      cakename:String,
      weight:String,
-     dateandtime:String,Chocolate brownie cake
+     dateandtime:String,
      phone:String,
      Address:String
     }
